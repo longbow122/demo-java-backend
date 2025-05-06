@@ -1,0 +1,4 @@
+enhancement: [ 'MINOR/*', 'minor/*', 'feature/*', 'FEATURE/*', 'FEAT/*', 'feat/*' ]
+major: [ 'MAJOR/*', 'major/*' ]
+bug: [ 'PATCH/*', 'patch/*', 'FIX/*', 'fix/*' ]
+dependencies: [ 'DEPENDENCY/*', 'dependency/*', 'dependabot/*', 'DEPENDENCIES/*', 'dependencies/*' ]
